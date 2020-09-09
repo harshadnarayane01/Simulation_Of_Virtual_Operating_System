@@ -1,0 +1,14 @@
+$AMJ430000990099                        
+GD20LR20GD42CR43BT06GD32PD20PD40PD30H123
+$DTA                                    
+I_AM_AAKASH_NAND                        
+NAND_IS_UNIVERSALGATE                   
+SO_BE_HAPPY                             
+$END4300
+$AMJ440000990099                        
+GD20GD30GD40LR21CR44BT06PD40H123        
+$DTA                                    
+VAIODELL                                
+ACERASUS                                
+YOU HAVESELECTEDDELLLAPTOP              
+$END4400
